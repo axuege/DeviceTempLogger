@@ -1,0 +1,6 @@
+@DTL.APi_HostAddress = http://localhost:5148
+
+GET {{DTL.APi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
